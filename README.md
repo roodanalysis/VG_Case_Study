@@ -1,5 +1,5 @@
 # RoodAnalysis
-Case Study: Analyzing Video Game Sales
+SAMPLE Case Study: Analyzing Video Game Sales
 --
 
 You have been hired as a data analyst by a video game company to help them understand the video game market and make data-driven decisions. Your task is to analyze a dataset of video game sales to uncover insights and trends that the company can use to inform their strategy.
@@ -47,8 +47,8 @@ Which genre has the highest total sales, and which genre has the highest average
 
 
 ## Deliverables: 
-Your deliverables should include:
+My deliverables will include:
 
-A report detailing your analysis and findings, including charts and graphs.
+A report detailing my analysis and findings, including charts and graphs.
 The SQL queries used to answer the questions.
-A presentation summarizing your findings and recommendations to the company.
+A presentation summarizing my findings and recommendations to the company.
