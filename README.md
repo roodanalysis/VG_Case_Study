@@ -6,7 +6,7 @@ You have been hired as a data analyst by a video game company to help them under
 
 ## Data Description:
 
-The dataset is called "vg_sales" and has the table "sales" in it. In the sales table, there is:
+The dataset is called "vg_sales" and has the table "sales" in it. Here's the metadata:
 
 **Rank:** The ranking of the game.
 
